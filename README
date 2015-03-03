@@ -1,8 +1,10 @@
-cli-google README
 
-Copyright (C) 2008 Henri Hakkinen
 
-http://henux.nor.fi/coding/projects/6-cli/13-cli-google
+*******************************
+DO NOT CLONE THIS REPO YET. I forked it but haven't updated it yet, nor has
+it been updated in about 6-7 years.  I will update this doc when I have
+updated the repo.
+*******************************
 
 `google` is a command line tool for doing Google searches from the
 terminal.  To install the package to your system, run `make install` as
@@ -16,7 +18,5 @@ Options
   -l LANG  display in language LANG, such as fi for Finnish
   -C       enable color output
   -j       open the first result in a web browser
-
-Report bugs to <henux@users.sourceforge.net>.
 
 See the manual page for full details.  Have fun!
